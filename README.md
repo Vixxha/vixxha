@@ -30,9 +30,9 @@
   <a href="https://www.linkedin.com/in/alexisortegacaruso/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:alexisortega1928@gmail.com>
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+ <a href="mailto:alexisortega1928@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </div>
 
 <br>
